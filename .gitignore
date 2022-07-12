@@ -1,0 +1,15 @@
+#Folder
+Crunchyroll Downloader/bin/
+Crunchyroll Downloader/bin
+Crunchyroll Downloader/obj/
+Crunchyroll Downloader/obj
+CRD-addon/
+packages/
+.vs/
+
+#Files
+*.zip
+*.mp4
+*.log
+*.key
+*.bak
