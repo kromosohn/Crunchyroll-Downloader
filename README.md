@@ -4,7 +4,7 @@ A simple to use Download Client for Crunchyroll, Funimation and Anime on Demand
 ## Software Requirements: 
  - Windows 10 or Windows 8.1
  - Microsoft Visual C++ 2017 Redistributable
-
+ 
 ## User Interface 
 #### Main window
 ![Screenshot](readme/main.png)
